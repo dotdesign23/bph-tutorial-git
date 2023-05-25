@@ -4,6 +4,8 @@ using namespace std;
 
 int main() {
   cout << "Hallo Alma" << endl;
+  cout<<"Halo Akhdan";
+  cout<<"lalalla";
 }
 
 int fungsi() {
