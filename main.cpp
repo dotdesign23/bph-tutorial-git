@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   cout << "Hallo BPH" << endl;
-  cout<<"Nashwa wibu";
+  cout<<"Halo Akhdan";
 }
 
 int fungsi() {
