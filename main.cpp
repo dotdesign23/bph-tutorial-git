@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
-  cout << "Hallo BPH" << endl;
+  cout << "Hallo Alma" << endl;
+  cout<<"Halo Akhdan";
+  cout<<"lalalla";
 }
 
 int fungsi() {
