@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hallo BPH" << endl;
+  cout << "Hallo Alma" << endl;
 }
 
 int fungsi() {
