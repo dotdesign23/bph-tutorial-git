@@ -6,6 +6,6 @@ int main() {
   cout << "Hello" << endl;
 }
 
-void fungsi() {
-  
+int fungsi() {
+  return 1 + 1;
 }
