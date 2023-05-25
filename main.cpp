@@ -7,5 +7,5 @@ int main() {
 }
 
 int fungsi() {
-  return 1 + 1;
+  return 1 + 2;
 }
